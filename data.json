@@ -1,0 +1,26 @@
+{
+  "utenti": [
+    {
+      "id": 1,
+      "nome": "Mario Rossi",
+      "email": "mario@email.com"
+    },
+    {
+      "id": 2,
+      "nome": "Luca Verdi",
+      "email": "luca@email.com"
+    }
+  ],
+  "prodotti": [
+    {
+      "id": 101,
+      "nome": "Prodotto A",
+      "prezzo": 19.99
+    },
+    {
+      "id": 102,
+      "nome": "Prodotto B",
+      "prezzo": 29.99
+    }
+  ]
+}
